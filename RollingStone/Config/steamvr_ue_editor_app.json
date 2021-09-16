@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.rollingstone-15973114.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/Mario/Documents/UVU/Fall 2021/Unreal/DGM360R_Unreal/RollingStone/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "RollingStone-15973114 [UE Editor]"
+				}
+			}
+		}
+	]
+}
